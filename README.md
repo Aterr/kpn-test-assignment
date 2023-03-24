@@ -3,9 +3,9 @@
 
 ## Overall
 
-The overall goal of the assignment is to create a minimal implementation that will showcase your preferred skills and approaches. To keep it simple we will ask you to recreate our (existing page)[https://www.kpn.com/shop/mobiel/telefoons]
+The overall goal of the assignment is to create a minimal implementation that will showcase your preferred skills and approaches. To keep it simple we will ask you to recreate our [existing page](https://www.kpn.com/shop/mobiel/telefoons)
 
-and using (phone_feed.json)[https://gist.githubusercontent.com/MaxKostenko/cfb308759c6b2c9762e91dadafe70c0e/raw/934bf752550a715712c905330c8db683674fb57c/phone_feed.json]
+and using [phone_feed.json](https://gist.githubusercontent.com/MaxKostenko/cfb308759c6b2c9762e91dadafe70c0e/raw/934bf752550a715712c905330c8db683674fb57c/phone_feed.json)
 
 
 ## Criteria
