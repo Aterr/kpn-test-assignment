@@ -1,0 +1,68 @@
+{
+  "hash": "40eb5ab3",
+  "browserHash": "eace5220",
+  "optimized": {
+    "primevue/button": {
+      "src": "../../node_modules/primevue/button/button.esm.js",
+      "file": "primevue_button.js",
+      "fileHash": "d970ec82",
+      "needsInterop": false
+    },
+    "primevue/card": {
+      "src": "../../node_modules/primevue/card/card.esm.js",
+      "file": "primevue_card.js",
+      "fileHash": "116fa585",
+      "needsInterop": false
+    },
+    "primevue/config": {
+      "src": "../../node_modules/primevue/config/config.esm.js",
+      "file": "primevue_config.js",
+      "fileHash": "f28ee3b7",
+      "needsInterop": false
+    },
+    "primevue/dropdown": {
+      "src": "../../node_modules/primevue/dropdown/dropdown.esm.js",
+      "file": "primevue_dropdown.js",
+      "fileHash": "5c425b0c",
+      "needsInterop": false
+    },
+    "primevue/multiselect": {
+      "src": "../../node_modules/primevue/multiselect/multiselect.esm.js",
+      "file": "primevue_multiselect.js",
+      "fileHash": "95fc502b",
+      "needsInterop": false
+    },
+    "primevue/sidebar": {
+      "src": "../../node_modules/primevue/sidebar/sidebar.esm.js",
+      "file": "primevue_sidebar.js",
+      "fileHash": "cab3e6ae",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "1c782f84",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-I6ANUSIV": {
+      "file": "chunk-I6ANUSIV.js"
+    },
+    "chunk-LOR3V3XO": {
+      "file": "chunk-LOR3V3XO.js"
+    },
+    "chunk-UGK56YZS": {
+      "file": "chunk-UGK56YZS.js"
+    },
+    "chunk-7DRKSPMN": {
+      "file": "chunk-7DRKSPMN.js"
+    },
+    "chunk-XADPZ4M6": {
+      "file": "chunk-XADPZ4M6.js"
+    },
+    "chunk-R225DL6P": {
+      "file": "chunk-R225DL6P.js"
+    }
+  }
+}
