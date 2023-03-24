@@ -20,3 +20,12 @@ and using (phone_feed.json)[https://gist.githubusercontent.com/MaxKostenko/cfb30
 - Code should be available on GitHub/GitLab
 - Project should run with npm/yarn
 - An API call that shows the retrieval of data (it could be served on your local node.js or mocked data)
+
+## How to run project locally
+
+Run from terminal:
+
+```
+npm install
+npm run dev
+```
