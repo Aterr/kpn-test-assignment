@@ -1,7 +1,5 @@
 
-# Project Title
-
-KPN test assignment
+# KPN test assignment
 
 ## Overall
 
